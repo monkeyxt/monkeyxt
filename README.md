@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi there
+<img align=right src="https://ghstat.miao.dev/api/top-langs?username=monkeyxt&show_icons=true&bg_color=60,#000000,#FFFFFFF&cache_seconds=1800"/>
 
-<!--
-**monkeyxt/monkeyxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tian
 
-Here are some ideas to get you started:
+- EE student @ Dartmouth, working on quantum engineering
+- Site: [Blog](https://txia.ca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤖 Skills and Programming Languages
+- Programming Languages: C/C++, Python, Go (ordered by proficiency)
+- Tools and Frameworks: GCC/GDB, CUDA, perf, gprof, eBPF
+
+#### 🧮 Research Interests
+- Quantum Information Processing
+- Algorithm Engineering
+
+#### 📫 Contact Me
+- Email: t # txia.ca
