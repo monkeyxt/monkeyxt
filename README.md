@@ -1,5 +1,4 @@
 ### 👋 Hi there
-<img align=right src="https://ghstat.miao.dev/api/top-langs?username=monkeyxt&show_icons=true&bg_color=60,#000000,#FFFFFFF&cache_seconds=1800"/>
 
 I am Tian
 
