@@ -1,17 +1,8 @@
-### 👋 Hi there
+### 🌱 Hi there
 
-I am Tian
+- I am an EE student @ Dartmouth, working on quantum engineering.
+- My main interests are **quantum information processing** and **algorithms**.
+- I maintain a [blog](https://txia.ca/).
+- You can also find me at t # txia.ca.
 
-- EE student @ Dartmouth, working on quantum engineering
-- Site: [Blog](https://txia.ca/)
-
-#### 🤖 Skills and Programming Languages
-- Programming Languages: C/C++, Python, Go (ordered by proficiency)
-- Tools and Frameworks: GCC/GDB, CUDA, perf, gprof, eBPF
-
-#### 🧮 Research Interests
-- Quantum Information Processing
-- Algorithm Engineering
-
-#### 📫 Contact Me
-- Email: t # txia.ca
+![](github-metrics.svg)
